@@ -35,16 +35,15 @@ The analysis provides a data-driven view of India's seafood export performance b
 
 ## 📓 Google Colab
 
-🔗 **[Open Google Colab Notebook](YOUR_COLAB_LINK)**
+🔗 **[Open Google Colab Notebook](https://colab.research.google.com/drive/116TOcz9tqtP1Z7S39nFiF3JURm9hq6GI)**
 
 ## 👤 Author
 
 **Afreed Mohammed**
 
-Aspiring Data Analyst
-
 ## 🔗 Project Links
 
-* **Google Colab:** YOUR_COLAB_LINK
-* **GitHub:** YOUR_GITHUB_LINK
-* **LinkedIn:** YOUR_LINKEDIN_LINK
+* **Google Colab:** (https://colab.research.google.com/drive/116TOcz9tqtP1Z7S39nFiF3JURm9hq6GI)
+* **LinkedIn:** (www.linkedin.com/in/
+afreedmohammed)
+
